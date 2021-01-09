@@ -182,6 +182,12 @@ border-radius: 20px;
 opacity: 1;
 position:absolute;
 }
+.r1:hover{
+-moz-box-shadow: 0 0 30px rgb(55, 194, 20);
+-webkit-box-shadow: 0 0 30px rgb(23, 212, 64);
+box-shadow: 0 0 20px rgb(6, 185, 6);
+transform: scale(1.05);
+}
 .s1{
 
 top: 1171px;
@@ -348,6 +354,12 @@ border-radius: 20px;
 opacity: 1;
 position:absolute;
 }
+.r2:hover{
+    -moz-box-shadow: 0 0 30px rgb(55, 194, 20);
+    -webkit-box-shadow: 0 0 30px rgb(23, 212, 64);
+    box-shadow: 0 0 20px rgb(6, 185, 6);
+    transform: scale(1.05);
+}
 .r3{
 
 top: 1593px;
@@ -361,6 +373,12 @@ opacity: 1;
 position:absolute;
 }
 
+.r3:hover{
+    -moz-box-shadow: 0 0 30px rgb(55, 194, 20);
+    -webkit-box-shadow: 0 0 30px rgb(23, 212, 64);
+    box-shadow: 0 0 20px rgb(6, 185, 6);
+    transform: scale(1.05);
+}
 
 .s2{
     left: 225px;
@@ -391,6 +409,12 @@ position:absolute;
     position: absolute;
 }
 
+.r4:hover{
+    -moz-box-shadow: 0 0 30px rgb(55, 194, 20);
+    -webkit-box-shadow: 0 0 30px rgb(23, 212, 64);
+    box-shadow: 0 0 20px rgb(6, 185, 6);
+    transform: scale(1.05);
+}
 
 .r5{
 
@@ -403,6 +427,14 @@ position:absolute;
     border: 1px solid #FFFFFF;
     border-radius: 20px;
     position: absolute;
+    }
+
+    .r5:hover{
+
+    -moz-box-shadow: 0 0 30px rgb(55, 194, 20);
+    -webkit-box-shadow: 0 0 30px rgb(23, 212, 64);
+    box-shadow: 0 0 20px rgb(6, 185, 6);
+    transform: scale(1.05);
     }
     
 .s4{
