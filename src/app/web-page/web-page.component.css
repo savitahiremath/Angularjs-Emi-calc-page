@@ -13,7 +13,11 @@ position: relative;
     top: 466px;
     left: 136px;
     width: 652px;
+<<<<<<< HEAD
     height: 365px;
+=======
+    height: 365px; 
+>>>>>>> 4ed31c65b5851fb52b3568c62ebd175fab2207fa
    position: absolute;
     }
 
@@ -209,7 +213,6 @@ font-family: 'Montserrat', sans-serif;
 color: #999999;
 width: 323px;
 height: 38px;
-/*background: transparent url('img/Get terms loans that.png') 0% 0% no-repeat padding-box;*/
 opacity: 1;
 position: absolute;
 }
@@ -391,7 +394,13 @@ position:absolute;
     position: absolute;
 }
 
+.r4:hover{
 
+    -moz-box-shadow: 0 0 30px rgb(55, 194, 20);
+      -webkit-box-shadow: 0 0 30px rgb(23, 212, 64);
+      box-shadow: 0 0 20px rgb(6, 185, 6);
+      transform: scale(1.05);
+}
 .r5{
 
     top: 1261px;
