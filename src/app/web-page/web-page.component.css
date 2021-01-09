@@ -1,0 +1,493 @@
+
+
+
+
+.h2{
+
+top: 27px;
+left: 120px;
+width: 123px;
+height: 123px;
+position: relative;
+/*background:url('images/logo.png') 0% 0% no-repeat padding-box;*/
+
+}
+
+
+.h1{
+    top: 466px;
+    left: 136px;
+    width: 652px;
+    height: 365px;
+    /*background:url('images/img-video.png') 0% 0% no-repeat padding-box;*/
+   position: absolute;
+    
+    }
+
+    .h3{
+
+top: 213px;
+left: -179px;
+width: 571px;
+height: 572px;
+/*background: transparent url('images/blob-small.png') 0% 0% no-repeat padding-box;*/
+position: absolute;
+
+
+    }
+#container{
+    position: relative;
+}
+
+.h4{
+
+top:-227.9068603515625px;
+left: 852px;
+width: 1183px;
+height: 1192px;
+transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0);
+/*background: transparent url('images/circle.png') 0% 0% no-repeat padding-box;*/
+opacity: 0.5;
+position: absolute;
+}
+
+
+.h5{
+
+top: 796px;
+left: 462px;
+width: 430px;
+height: 70px;
+opacity: 0.5;
+/*background:transparent url('images/accounting-dots.png') 0% 0% no-repeat padding-box;*/
+position: relative;
+}
+
+.h6{
+
+top: 936px;
+left: 1458px;
+width: 430px;
+height: 70px;
+/*background: transparent url('images/accounting-dots.png') 0% 0% no-repeat padding-box;*/
+position: absolute;
+opacity: 0.5;
+}
+.h7{
+    font-size:40px;
+    width: 407px;
+    height: 98px;
+    left:189px;
+    top:270px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: medium;
+    position: absolute;
+}
+.t1{
+
+    font-size:25px;
+    width: 103px;
+    height:34px;
+    left:1030px;
+    top:68px;
+    font-weight:bold;
+    font-family: 'Montserrat', sans-serif;
+    font-style:initial;
+    position: absolute;
+}
+.t2{
+    font-size:25px;
+    width: 108px;
+    height:34px;
+    left:1183px;
+    top:68px;
+    font-weight:bold;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+
+}
+.t3{
+    font-size:25px;
+    width: 79px;
+    height:34px;
+    left:1341px;
+    top:68px;
+    font-weight:bold;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+
+
+}
+.b1
+{
+font-size:24px ;
+border-radius:24px 24px 24px 24px;
+width: 118px;
+height: 45px;
+font-family: 'Montserrat', sans-serif;
+left:1480px;
+top:63px;
+position: absolute;
+border-color: purple;
+cursor: pointer; 
+outline: none; 
+transform: translateY(4px); 
+box-shadow: 0px 0px 20px #00000033;
+
+}
+.b2{
+    
+    width: 166px;
+    height: 45px;
+    top:63px;
+    left:1622px;
+    font-size:16px ;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#9F62C9;
+    box-shadow: 0px 0px 20px #00000033;
+    border-radius:24px 24px 24px 24px;
+    cursor: pointer; 
+    outline: none; 
+    transition: 0.2s all;  
+    opacity: 1;
+    position: absolute;
+    
+    }
+  
+.b3{
+    top: 1686px;
+    left: 1158px;
+    width: 279px;
+    height: 58px;
+    color:#663399;
+    font-size:18px;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 0px 0px 20px #00000033;
+    border-color: 2px solid #663399;
+    border-radius: 24px 24px 24px 24px;
+    opacity: 1;
+    cursor: pointer; 
+    outline: none; 
+    transition: 0.3s all; 
+    position: absolute;
+    
+
+
+}
+.m1{
+top: 1209px;
+height: 936px;
+left: 0.0001220703125px;
+width: 1920px;
+opacity:1;
+position: absolute;
+/*background: transparent url('img/sol_wave_bg.png') 0% 0% no-repeat padding-box;*/
+}
+.r1{
+left: 191px;
+top: 1137px;
+width: 391px;
+height: 253px;
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+position:absolute;
+}
+.s1{
+
+top: 1171px;
+left: 225px;
+width: 90px;
+height: 90px;
+/*background: transparent url('img/Get Paid Instantly.png') 0% 0% no-repeat padding-box;*/
+opacity: 1;
+position:absolute;
+}
+#t4{
+top: 1280px;
+font-size:15px;
+font-weight:Bold;
+height: 19px;
+font-family: 'Montserrat', sans-serif;
+left: 225px;
+width: 323px;
+opacity: 1;
+position:absolute;
+}
+#t5{
+left: 225px;
+top: 1310px;
+font-size:15px;
+font-family: 'Montserrat', sans-serif;
+color: #999999;
+width: 323px;
+height: 38px;
+/*background: transparent url('img/Get terms loans that.png') 0% 0% no-repeat padding-box;*/
+opacity: 1;
+position: absolute;
+}
+
+#t6{
+left: 225px;
+top: 1593px;
+font-size: 15px;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+width: 323px;
+height: 19px;
+/*background: transparent url('img/Low-interest rate.png') 0% 0% no-repeat padding-box;*/
+opacity: 1;
+position:absolute;
+}
+
+#t7{
+left: 225px;
+top: 1624px;
+font-size: 15px;
+font-family: 'Montserrat', sans-serif;
+color: #999999;
+width: 323px;
+height: 57px;
+/*background: transparent url('img/Achieve your financi.png') 0% 0% no-repeat padding-box;*/
+opacity: 1;
+position:absolute;
+
+}
+#t8{
+left: 663px;
+top: 1737px;
+width: 323px;
+font-size: 15px;
+font-family: 'Montserrat', sans-serif;
+height: 19px;
+font-weight:bold;
+/*background: transparent url('img/Loans to fight COVID.png') 0% 0% no-repeat padding-box;*/
+opacity: 1;
+position:absolute;
+}
+
+#t9{
+    top: 1767px;
+    left: 663px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    width: 323px;
+    height: 38px;
+    color: #999999;
+    /*background: transparent url('img/Zero EMI for first 3.png') 0% 0% no-repeat padding-box;*/
+    position:absolute;
+    opacity:1;
+}
+#t10{
+
+    top: 1929px;
+    left: 225px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    width: 323px;
+    height: 19px;
+    font-weight: bold;
+    opacity: 1;
+    position:absolute;
+}
+
+#t11{
+    top: 1960px;
+    left: 225px;
+    font-family: 'Montserrat', sans-serif;
+    width: 323px;
+    color: #999999;
+    height: 38px;
+    font-size: 15px;
+    position:absolute;
+
+}
+
+#t12{
+padding-left: 15px;
+top: 1401px;
+left: 663px;
+width: 323px;
+height: 19px;
+font-size: 15px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: white;
+position: absolute;
+
+
+}
+#t13{
+
+    top: 1431px;
+    left: 663px;
+    width: 323px;
+    font-family: 'Montserrat', sans-serif;
+    height: 38px;
+    color: white;
+    padding: 15px;
+    position: absolute;
+}
+
+#t14{
+
+top: 1377px;
+left: 1158px;
+width: 490px;
+font-size: 40px;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+height: 98px;
+position: absolute;
+}
+
+#t15{
+
+top: 1561px;
+left: 1158px;
+width: 490px;
+color: #777777;
+font-family: 'Montserrat', sans-serif;
+height: 44px;
+font-size: 18px;
+opacity: 1;
+position: absolute;
+
+}
+.r2{
+left: 191px;
+top: 1450px;
+width: 391px;
+height: 276px;
+/*background: transparent url('img/Rectangle Copy 19.png') 0% 0% no-repeat padding-box;*/
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+position:absolute;
+}
+.r3{
+
+top: 1593px;
+left: 630px;
+width: 390px;
+height: 253px;
+/*background: transparent url('img/Rectangle Copy 25.png') 0% 0% no-repeat padding-box;*/
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+position:absolute;
+}
+
+
+.s2{
+    left: 225px;
+    top: 1484px;
+    width: 90px;
+    height: 90px;
+    /*background: transparent url('img/Low interest rate.png') 0% 0% no-repeat padding-box;*/
+    opacity: 1;
+    position:absolute;
+}
+.s3{
+
+top: 1627px;
+left: 663px;
+width: 90px;
+height: 90px;
+/*background: transparent url('img/Covid .png') 0% 0% no-repeat padding-box;*/
+opacity: 1;
+position:absolute;
+}
+.r4{
+    top: 1786px;
+    left: 191px;
+    width: 391px;
+    height: 276px;
+    /*background: transparent url('img/Rectangle Copy 17.png') 0% 0% no-repeat padding-box;*/
+    box-shadow: 0px 0px 30px #2321321F;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    opacity: 1;
+    position: absolute;
+}
+
+.r5{
+
+    top: 1261px;
+    left: 630px;
+    width:390px;
+    height: 272px;
+    opacity: 1;
+    box-shadow: 0px 0px 15px #2321321F;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    position: absolute;
+    }
+    
+.s4{
+    top: 1820px;
+    left: 224px;
+    width: 91px;
+    height: 90px;
+    opacity: 1;
+    position: absolute;
+
+}
+.s5{
+    top: 1291px;
+    padding-top: 15px;
+    padding-left: 15px;
+    left: 664px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+
+
+}
+#l1{
+    top: 1528px;
+    left: 1158px;
+    width: 150px;
+    height:0px;
+    border: 4px solid #707070;
+    position: absolute;
+    border-radius: 6px;
+}
+
+hr.l2{
+top: 376px;
+left: 192px;
+width: 236px;
+border: 4px solid black;
+height:0px;
+border-radius:13px;
+opacity: 0.7;
+position: absolute;
+}
+
+.slidecontainer {
+    width: 100%;
+  }
+
+  .slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  .a1{
+    top: 270px;
+    left: 1100px;
+    width: 688px;
+    height: 675px;
+    position: absolute;
+    opacity: 1;
+}
