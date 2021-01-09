@@ -1,7 +1,4 @@
 
-
-
-
 .h2{
 
 top: 27px;
@@ -9,32 +6,25 @@ left: 120px;
 width: 123px;
 height: 123px;
 position: relative;
-/*background:url('images/logo.png') 0% 0% no-repeat padding-box;*/
 
 }
-
 
 .h1{
     top: 466px;
     left: 136px;
     width: 652px;
     height: 365px;
-    /*background:url('images/img-video.png') 0% 0% no-repeat padding-box;*/
    position: absolute;
-    
     }
 
-    .h3{
+.h3{
 
 top: 213px;
 left: -179px;
 width: 571px;
 height: 572px;
-/*background: transparent url('images/blob-small.png') 0% 0% no-repeat padding-box;*/
 position: absolute;
-
-
-    }
+}
 #container{
     position: relative;
 }
@@ -46,7 +36,6 @@ left: 852px;
 width: 1183px;
 height: 1192px;
 transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0);
-/*background: transparent url('images/circle.png') 0% 0% no-repeat padding-box;*/
 opacity: 0.5;
 position: absolute;
 }
@@ -59,7 +48,6 @@ left: 462px;
 width: 430px;
 height: 70px;
 opacity: 0.5;
-/*background:transparent url('images/accounting-dots.png') 0% 0% no-repeat padding-box;*/
 position: relative;
 }
 
@@ -69,7 +57,6 @@ top: 936px;
 left: 1458px;
 width: 430px;
 height: 70px;
-/*background: transparent url('images/accounting-dots.png') 0% 0% no-repeat padding-box;*/
 position: absolute;
 opacity: 0.5;
 }
@@ -182,7 +169,6 @@ left: 0.0001220703125px;
 width: 1920px;
 opacity:1;
 position: absolute;
-/*background: transparent url('img/sol_wave_bg.png') 0% 0% no-repeat padding-box;*/
 }
 .r1{
 left: 191px;
@@ -201,7 +187,6 @@ top: 1171px;
 left: 225px;
 width: 90px;
 height: 90px;
-/*background: transparent url('img/Get Paid Instantly.png') 0% 0% no-repeat padding-box;*/
 opacity: 1;
 position:absolute;
 }
@@ -237,7 +222,6 @@ font-weight: bold;
 font-family: 'Montserrat', sans-serif;
 width: 323px;
 height: 19px;
-/*background: transparent url('img/Low-interest rate.png') 0% 0% no-repeat padding-box;*/
 opacity: 1;
 position:absolute;
 }
@@ -250,7 +234,6 @@ font-family: 'Montserrat', sans-serif;
 color: #999999;
 width: 323px;
 height: 57px;
-/*background: transparent url('img/Achieve your financi.png') 0% 0% no-repeat padding-box;*/
 opacity: 1;
 position:absolute;
 
@@ -263,7 +246,6 @@ font-size: 15px;
 font-family: 'Montserrat', sans-serif;
 height: 19px;
 font-weight:bold;
-/*background: transparent url('img/Loans to fight COVID.png') 0% 0% no-repeat padding-box;*/
 opacity: 1;
 position:absolute;
 }
@@ -276,7 +258,6 @@ position:absolute;
     width: 323px;
     height: 38px;
     color: #999999;
-    /*background: transparent url('img/Zero EMI for first 3.png') 0% 0% no-repeat padding-box;*/
     position:absolute;
     opacity:1;
 }
@@ -361,7 +342,6 @@ left: 191px;
 top: 1450px;
 width: 391px;
 height: 276px;
-/*background: transparent url('img/Rectangle Copy 19.png') 0% 0% no-repeat padding-box;*/
 box-shadow: 0px 0px 30px #2321321F;
 border: 1px solid #FFFFFF;
 border-radius: 20px;
@@ -374,7 +354,6 @@ top: 1593px;
 left: 630px;
 width: 390px;
 height: 253px;
-/*background: transparent url('img/Rectangle Copy 25.png') 0% 0% no-repeat padding-box;*/
 box-shadow: 0px 0px 30px #2321321F;
 border: 1px solid #FFFFFF;
 border-radius: 20px;
@@ -388,7 +367,6 @@ position:absolute;
     top: 1484px;
     width: 90px;
     height: 90px;
-    /*background: transparent url('img/Low interest rate.png') 0% 0% no-repeat padding-box;*/
     opacity: 1;
     position:absolute;
 }
@@ -398,7 +376,6 @@ top: 1627px;
 left: 663px;
 width: 90px;
 height: 90px;
-/*background: transparent url('img/Covid .png') 0% 0% no-repeat padding-box;*/
 opacity: 1;
 position:absolute;
 }
@@ -407,13 +384,13 @@ position:absolute;
     left: 191px;
     width: 391px;
     height: 276px;
-    /*background: transparent url('img/Rectangle Copy 17.png') 0% 0% no-repeat padding-box;*/
     box-shadow: 0px 0px 30px #2321321F;
     border: 1px solid #FFFFFF;
     border-radius: 20px;
     opacity: 1;
     position: absolute;
 }
+
 
 .r5{
 
