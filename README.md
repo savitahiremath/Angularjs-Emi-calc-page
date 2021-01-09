@@ -22,3 +22,13 @@ Run ng test to execute the unit tests via Karma.
 
 ## Running end-to-end tests
 Run ng e2e to execute the end-to-end tests via Protractor.
+
+## Output
+
+![outp1](https://user-images.githubusercontent.com/42416500/104106753-89ea0f00-52dd-11eb-905f-fbb7ad7aed14.JPG)
+
+
+
+
+
+![outp2](https://user-images.githubusercontent.com/42416500/104106826-2e6c5100-52de-11eb-9c7b-b99863fac9f1.JPG)
