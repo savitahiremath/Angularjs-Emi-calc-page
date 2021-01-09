@@ -43,7 +43,6 @@ left: 852px;
 width: 1183px;
 height: 1192px;
 transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0);
-/*background: transparent url('images/circle.png') 0% 0% no-repeat padding-box;*/
 opacity: 0.5;
 position: absolute;
 }
@@ -56,7 +55,6 @@ left: 462px;
 width: 430px;
 height: 70px;
 opacity: 0.5;
-/*background:transparent url('images/accounting-dots.png') 0% 0% no-repeat padding-box;*/
 position: relative;
 }
 
@@ -66,7 +64,6 @@ top: 936px;
 left: 1458px;
 width: 430px;
 height: 70px;
-/*background: transparent url('images/accounting-dots.png') 0% 0% no-repeat padding-box;*/
 position: absolute;
 opacity: 0.5;
 }
